@@ -1,1 +1,0 @@
-# act_1palindrome
